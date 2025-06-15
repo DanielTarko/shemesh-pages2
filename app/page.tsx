@@ -3,5 +3,5 @@ export default function Home() {
     <main>
       <div>Next.js on GitHub Pages</div>
     </main>
-  );
+  ); 
 }
