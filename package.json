@@ -5,14 +5,22 @@
 		"build": "next build"
 	},
 	"dependencies": {
+		"@prisma/client": "^6.7.0",
+		"framer-motion": "^12.15.0",
 		"next": "^15.1.7",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
 	},
 	"devDependencies": {
-		"@types/node": "^22.13.4",
-		"@types/react": "^19.0.8",
-		"@types/react-dom": "^19.0.3",
-		"typescript": "^5.7.3"
+		"@tailwindcss/postcss": "^4",
+		"@types/node": "^20",
+		"@types/react": "^19",
+		"@types/react-dom": "^19",
+		"file-loader": "^6.2.0",
+		"gh-pages": "^6.3.0",
+		"prisma": "^6.7.0",
+		"tailwindcss": "^4",
+		"typescript": "^5",
+		"url-loader": "^4.1.1"
 	}
 }
